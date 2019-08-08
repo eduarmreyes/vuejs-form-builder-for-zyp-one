@@ -15,6 +15,7 @@ export default {
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    // favicon URL https://favicon.io/favicon-generator/?t=F&ff=Leckerli+One&fs=110&fc=%23FFFFFF&b=rounded&bc=%230AA
   },
   /*
    ** Customize the progress-bar color
